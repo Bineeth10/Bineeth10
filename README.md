@@ -85,23 +85,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-> ⚠️ **Stats not loading?** Deploy your own instance → [Fork github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and replace the URL below with your Vercel deployment URL.
-
-<div align="center">
-
-<a href="https://github.com/Bineeth10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bineeth10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/Bineeth10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bineeth10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
-</a>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -117,23 +100,6 @@ print(me.motto())
 <div align="center">
 
 [![Bineeth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bineeth10&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Bineeth10)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|----|-------------|---------|
-| 🎓 | **Meta Front-End Developer Professional Certificate** | Coursera — HTML, CSS, JavaScript, React, Git/GitHub |
-| 📊 | **One Roadmap Skill Certification – Data Analysis** | Practical skills in analyzing and interpreting structured data |
-| 🔐 | **Deloitte Australia – Cyber Job Simulation** | Forage — Hands-on real-world cybersecurity simulation tasks |
-| 🌐 | **Multilingual** | Fluent in English, Hindi, Malayalam & Tamil |
-| 🤝 | **NCC Cadet** | National Cadet Corps volunteer — leadership & discipline training |
-| 👨‍🏫 | **Peer Teacher** | Mentored students in DFDs, programming basics & problem-solving |
 
 </div>
 
@@ -189,6 +155,23 @@ print(me.motto())
 | [📚 **StudyVault**](https://github.com/Bineeth10) — *AI-Moderated Notes Sharing Platform* | `FastAPI` `MongoDB` `Python` `JavaScript` `Groq API` `Pydantic` | Full-stack data-driven app with end-to-end AI content moderation pipeline; Role-based access for Student / Faculty / Admin; Real-time notifications & approval lifecycle |
 | [🔬 **Smart Lab Record Management System**](https://github.com/Bineeth10) — *Mini Project* | `PHP` `MySQL` `Bootstrap` `JavaScript` `HTML/CSS` | Database-driven system with role-based access control; Multi-step data validation workflows; Structured data consistency across status tracking pipelines |
 | [😀 **Emoji Printer**](https://github.com/Bineeth10) — *API Integration Micro Project* | `REST API` `MySQL` `JavaScript` `HTML` | External REST API integration for real-time data collection; MySQL-backed dataset storage; Data parsing, validation, and full error-handling pipeline |
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|----|-------------|---------|
+| 🎓 | **Meta Front-End Developer Professional Certificate** | Coursera — HTML, CSS, JavaScript, React, Git/GitHub |
+| 📊 | **One Roadmap Skill Certification – Data Analysis** | Practical skills in analyzing and interpreting structured data |
+| 🔐 | **Deloitte Australia – Cyber Job Simulation** | Forage — Hands-on real-world cybersecurity simulation tasks |
+| 🌐 | **Multilingual** | Fluent in English, Hindi, Malayalam & Tamil |
+| 🤝 | **NCC Cadet** | National Cadet Corps volunteer — leadership & discipline training |
+| 👨‍🏫 | **Peer Teacher** | Mentored students in DFDs, programming basics & problem-solving |
 
 </div>
 
